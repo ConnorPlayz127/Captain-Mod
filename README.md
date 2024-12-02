@@ -2,9 +2,9 @@ Welcome to the Among Us Captain Mod!
 
 To play this mod, You need to use MiraAPI, You aslo need to use the custom reigon to play in public lobbies.
 
-Click Windows + R and run the following line:
+Click Windows + R and run the following line: %APPDATA%\..\LocalLow\Innersloth\Among Us
 
-Then open "regionInfo.json" then paste this code: %APPDATA%\..\LocalLow\Innersloth\Among Us
+Then open "regionInfo.json" then paste this code:
 
 ```cs
 {
