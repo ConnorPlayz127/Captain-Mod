@@ -1,0 +1,12 @@
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\bin\Debug\net6.0\CaptainMod.deps.json
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\bin\Debug\net6.0\CaptainMod.dll
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.csproj.AssemblyReference.cache
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.AssemblyInfoInputs.cache
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.AssemblyInfo.cs
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.csproj.CoreCompileInputs.cache
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.dll
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\refint\CaptainMod.dll
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\ref\CaptainMod.dll
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\bin\Debug\net6.0\MiraAPI.dll
+C:\Users\Bionic\Desktop\My Custom Among Us Mods\CaptainMod\CaptainMod\obj\Debug\net6.0\CaptainMod.csproj.Up2Date
