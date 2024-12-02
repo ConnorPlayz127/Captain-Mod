@@ -6,6 +6,7 @@ Click Windows + R and run the following line:
 
 Then open "regionInfo.json" then paste this code: %APPDATA%\..\LocalLow\Innersloth\Among Us
 
+```cs
 {
   "CurrentRegionIdx": 0,
   "Regions": [
@@ -79,3 +80,4 @@ Then open "regionInfo.json" then paste this code: %APPDATA%\..\LocalLow\Innerslo
     }
   ]
 }
+```
