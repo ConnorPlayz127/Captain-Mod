@@ -1,1 +1,1 @@
-#Welcome to the Among Us Captain Mod!
+Welcome to the Among Us Captain Mod!
